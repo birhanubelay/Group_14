@@ -1,0 +1,10 @@
+Input:
+ list of items 
+process:
+ Step 1: Create a function that takes in a list of items.
+ Step 2: Initialize an empty set.
+ Step 3: Iterate through the list of items and push the unique items to the empty set.
+ Step 4: Change the set back to list.
+
+ Output: 
+  List of unique values
