@@ -1,0 +1,9 @@
+1. Gather a list of all delivery orders, including addresses, delivery time windows, and urgency.
+2. Collect details about each vehicle: where it is now, how many deliveries it can carry, and if it’s ready to go.
+3. Highlight orders that need faster delivery.
+4. Group orders that are near each other to make delivery routes shorter.
+5. Distribute the orders among vehicles, making sure no vehicle has more than it can handle.
+6. Give urgent orders to vehicles that can reach them soonest.
+7. Choose routes that avoid areas with heavy traffic.
+8. If there is a problem on the road or with a vehicle, quickly update the plan and reassign orders as needed.
+9. If there are too many orders for the available vehicles, schedule the remaining ones for a later trip or arrange for outside help.
