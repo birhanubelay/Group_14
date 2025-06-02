@@ -1,10 +1,4 @@
-Input:
- list of items 
-process:
- Step 1: Create a function that takes in a list of items.
- Step 2: Initialize an empty set.
- Step 3: Iterate through the list of items and push the unique items to the empty set.
- Step 4: Change the set back to list.
-
- Output: 
-  List of unique values
+1) Arrange all items of the list one after another.
+2) For each item, compare it to every other entry on the list.
+3) If an item does not match any other in the entire sequence, consider it to be unique.
+4) Collect all such entries that remain unmatched through these comparisons.
