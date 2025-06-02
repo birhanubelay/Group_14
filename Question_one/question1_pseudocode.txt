@@ -1,4 +1,4 @@
-1) Arrange all items of the list one after another.
-2) For each item, compare it to every other entry on the list.
-3) If an item does not match any other in the entire sequence, consider it to be unique.
-4) Collect all such entries that remain unmatched through these comparisons.
+Arrange all items of the list one after another.
+For each item, compare it to every other entry on the list.
+If an item does not match any other in the entire sequence, consider it to be unique.
+Collect all such entries that remain unmatched through these comparisons.
