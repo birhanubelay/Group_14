@@ -1,4 +1,4 @@
-1. Create an empty list to keep track of each page and how many times it is visited.
+1. Create an empty Hashmap to keep track of each page and how many times it is visited in a list of pages.
 2. If the page is already in the list, increase its visit number by one.
 3. If the page is not in the list, add it and set its visit number to one.
 4. Arrange all the pages so that the ones with the highest visit numbers come first.
